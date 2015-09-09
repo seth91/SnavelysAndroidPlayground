@@ -7,9 +7,9 @@
     android:id="@+id/activity_main">
 
     <TextView
-        android:text="@string/hello_world"
+        android:text="@string/adios_amigos"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/adiosTextView" />
+        android:id="@+id/adiosAmigos" />
 
 </RelativeLayout>
